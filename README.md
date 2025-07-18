@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Sachin Shastri</h1>
 <h3 align="center">A data enthusiast with Masters in Data Science from IU Bloomington with 3+ years of professional experience in BI and Analytics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketkikulkarni15&label=Profile%20views&color=0e75b6&style=flat" alt="vshastri13" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketkikulkarni15&label=Profile%20views&color=0e75b6&style=flat" alt="vshastri13" /> </p> -->
 
 <!--- 🔭 I’m currently working on [Swire Coca-Cola Predictive Maintenance Project](https://github.com/KetkiKulkarni15/Coca-Cola-Swire) -->
 
@@ -44,8 +44,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" alt="Tableau" width="40" />
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" />
+</a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" />
   </a>
